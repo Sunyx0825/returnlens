@@ -1,0 +1,11 @@
+{
+  "models": 15,
+  "improved": 12,
+  "unchanged": 1,
+  "baseline_beats_mean": 4,
+  "constrained_beats_mean": 8,
+  "data_sha256": "807b97645968c543548f62be295a5f99573c05948f491c1d6a071ca2a7de1159",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "term_spread": "lty - tbl"
+}
